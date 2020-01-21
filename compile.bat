@@ -1,0 +1,1 @@
+g++ frogger_SDL.cpp -w -std=c++11 -lSDL2 -lSDL2_image  -o frogger.exe -Iinclude -Llib
